@@ -787,7 +787,7 @@ a.btn-boxy {
         -o-background-size: 299px 287px;
         background-size: 299px 287px; } }
   .main-header-home .logo {
-    width: 643px;
+    /*width: 643px;*/
     height: 155px;
     text-indent: 100%;
     overflow: hidden;
